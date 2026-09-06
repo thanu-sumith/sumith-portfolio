@@ -1,0 +1,13 @@
+{
+  "owner": "thanu-sumith",
+  "name": "sumith-portfolio",
+  "description": "My personal portfolio: selected AI and full-stack projects, a little about me, and a way to get in touch.",
+  "topics": [
+    "portfolio",
+    "personal-website",
+    "html",
+    "css",
+    "javascript",
+    "github-pages"
+  ]
+}
