@@ -12,7 +12,9 @@ The starting point was my original [My-portfolio repository](https://github.com/
 
 The first step was to review the existing content and separate what was useful from what made the page harder to read. The original oversized headings and fixed-width project cards became a responsive layout that works on smaller screens.
 
-The design uses a dark background, restrained purple accents, and a large portrait. Project sections follow the same structure so readers can quickly see the problem, the approach, and the technologies involved.
+The redesign takes a lighter direction: white surfaces, clear typography, blue controls, and distinct blue, coral, mint, and lavender project treatments. The layout combines generous spacing with layered cards, a portrait-led about section, and subtle motion. The aim is a carefully composed product-style page that still feels personal.
+
+Projects can be filtered by area, and each card opens a more detailed note about the idea, technical approach, and limitations. The toolkit has keyboard-accessible tabs, and the contact section includes a copy-email action. Motion respects the visitor’s reduced-motion preference.
 
 Plain HTML, CSS, and JavaScript were enough for this site. Keeping the stack small makes it easier to update and lets GitHub Pages serve it without a build step.
 
@@ -22,7 +24,7 @@ The contact form also needed a clear outcome. It now opens an email draft with t
 
 - An introduction and graduation portrait.
 - An about section and a list of technologies.
-- Three featured projects: AI Avatar Generator, Text-to-Video Generator, and Mental Health AI Companion.
+- Four featured projects: AI Avatar Generator, Text-to-Video Generator, Mental Health AI Companion, and Hspace.
 - A downloadable résumé and links to GitHub, LinkedIn, and Instagram.
 - A contact form that opens a prefilled email draft.
 - Responsive layouts, keyboard focus styles, labelled form fields, and reduced-motion support.
@@ -67,7 +69,7 @@ The photograph and résumé are served locally. Fonts come from Google Fonts, wi
 
 ## Checks and current limits
 
-JavaScript syntax, section links, and local asset paths were checked. Browser-based visual testing has not been performed. Email delivery depends on the visitor’s email app; there is no contact-form backend.
+JavaScript syntax, section links, dialog/tabpanel references, project-filter metadata, and local asset paths were checked. Browser-based visual testing has not been performed. Email delivery depends on the visitor’s email app; there is no contact-form backend.
 
 ## Credits
 
