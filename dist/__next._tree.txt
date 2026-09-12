@@ -1,2 +1,2 @@
 :HL["/sumith-portfolio/_next/static/chunks/167xz3cs9hifr.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"MOygkV9XU5lbXD2WHtQjx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"GewK2AhEs82JDtrvoJ_Jy"}
